@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8MdR9IhhHJPirRKIM/pd7gJ1eIwuHAH60ioxMB+ayGxA9jC3+XcnaqD4iZSFA2PJVhgvv36WPhgn/qc3U9q8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kira_\\source\\repos\\Actividades_RobalinoDiegoXamarin\\Actividades_RobalinoDiegoXamarin\\Actividades_RobalinoDiegoXamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kira_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kira_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kira_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kira_\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kira_\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

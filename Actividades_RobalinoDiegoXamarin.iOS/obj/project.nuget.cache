@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdbRcjLqT0MFP83eJyYzCV1F7m1phMIu6qn7Ndrrp0zQCLIaFMjZN3w9KB6m3YIr04HZdeW/SLYY8heC8bSYEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kira_\\source\\repos\\Actividades_RobalinoDiegoXamarin\\Actividades_RobalinoDiegoXamarin.iOS\\Actividades_RobalinoDiegoXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kira_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kira_\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kira_\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

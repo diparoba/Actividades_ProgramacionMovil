@@ -1,0 +1,16 @@
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\bin\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.deps.json
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\bin\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.dll
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\bin\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.pdb
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.csproj.AssemblyReference.cache
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\DPRB_Calculadora.xaml.g.cs
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.AssemblyInfoInputs.cache
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.AssemblyInfo.cs
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.dll
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\refint\Actividades_RobalinoDiegoXamarin.dll
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\Actividades_RobalinoDiegoXamarin.pdb
+C:\Users\kira_\source\repos\Actividades_RobalinoDiegoXamarin\Actividades_RobalinoDiegoXamarin\obj\Debug\netstandard2.0\ref\Actividades_RobalinoDiegoXamarin.dll
